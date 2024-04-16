@@ -9,7 +9,8 @@
 7. Lakukan command `php artisan storage:link`
 8. pastikan sudah terinstall node v18
 9. run `npm install`
-10. run `npm run watch` -> jangan close terminal nya, akan otomatis build ulang ketika ada perubahan
+10. run `php artisan serve`
+11. run `npm run watch` -> jangan close terminal nya, akan otomatis build ulang ketika ada perubahan
 
 
 # FITUR
